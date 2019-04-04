@@ -18,4 +18,11 @@ We’re going to make a Bitcoin price ticker. The app will give you the latest B
 
 
 From Submariner100........
+
 I am following along this project and reinforcing my skill set in Swift/Networking and general iOS. Each section I will commit it to Github.
+
+There was a few surprises in this project. The first one being that Xcode did not Recognise SwiftyJSON was using Swift 5. After digging on the net and using Stackoverflow this issue was resolve quite easily. 
+
+I fully recommend this course about programming in Swift to everybody. Its only $10 dollars on Udemy and it is called ios 12 app development bootcamp by Angela Yu.
+
+This course will teach you about intergrating with api's and networking 
