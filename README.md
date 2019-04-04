@@ -15,3 +15,7 @@ We’re going to make a Bitcoin price ticker. The app will give you the latest B
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+
+
+From Submariner100........
+I am following along this project and reinforcing my skill set in Swift/Networking and general iOS. Each section I will commit it to Github.
